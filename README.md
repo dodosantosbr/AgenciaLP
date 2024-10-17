@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src=".src/imagens/preview1.png" width="100%" />
+  ![](https://raw.github.com/dodosantosbr/AgenciaLP/blob/main/src/imagens/preview1.png?raw=true)
 </p>
 
 ## 💻 Projeto
