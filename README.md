@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src=".agencias-lp/src/imagens/preview.png" width="100%" />
+  <img src=".agencias-landingpages/src/imagens/preview.png" width="100%" />
 </p>
 
 ## 💻 Projeto
