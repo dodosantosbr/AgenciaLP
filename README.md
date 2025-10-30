@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
- <img src="https://github.com/dodosantosbr/AgenciaLP/blob/main/src/imagens/preview1.png?raw=true">
+<img width="1285" height="628" alt="image" src="https://github.com/user-attachments/assets/397e6ccd-5c04-4573-a3a0-e0499fc17352" />
+
 </p>
 
 ## 💻 Projeto
